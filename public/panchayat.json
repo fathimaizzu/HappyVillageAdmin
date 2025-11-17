@@ -1,0 +1,241 @@
+
+
+
+
+{
+  "panchayaths": [
+    {
+      "id": 1,
+      "name": "Aryad",
+      "wards": [
+        {
+          "id": 101,
+          "name": "Ward 8",
+          "houses": [
+            {
+              "id": 1001,
+              "houseNumber": "H-8-1",
+              "details": {
+                "Village": "Pathirappally",
+                "Panchayath": "Aryad",
+                "WardNo": 8,
+                "RationCardType": "APL",
+                "MarritalStatus": "Married",
+                "TypeofHouse": "Concrete",
+                "AreaofHouse": "below 500 sq",
+                "AvailabilityofCleanWater": "KWA",
+                "OrganicWasteManagementMethod": "Bio-bin",
+                "InorganicWasteManagementMethod": "Harithakarmasena",
+                "EducationalQualification": "below S S L C",
+                "BloodGroup": "A⁺",
+                "PensionDetails": "EPF",
+                "MedicineDetails": "Diabetic"
+              }
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Ward 9",
+          "houses": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mararikulam",
+      "wards": [
+        {
+          "id": 201,
+          "name": "Ward 9",
+          "houses": [
+            {
+              "id": 2001,
+              "houseNumber": "H-9-1",
+              "details": {
+                "Panchayath": "Maarikulam south",
+                "WardNo": 9,
+                "RationCardType": "BPL",
+                "MarritalStatus": "Single",
+                "TypeofHouse": "A C Sheet/ Metal Sheet",
+                "AreaofHouse": "500 sq - 1000 sq",
+                "AvailabilityofCleanWater": "Well",
+                "OrganicWasteManagementMethod": "Compost",
+                "InorganicWasteManagementMethod": "NIL",
+                "EducationalQualification": "S S L C",
+                "BloodGroup": "A⁻",
+                "PensionDetails": "Service Pension",
+                "MedicineDetails": "Heart disease"
+              }
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "name": "Ward 10",
+          "houses": [
+            {
+              "id": 2002,
+              "houseNumber": "H-10-1",
+              "details": {
+                "WardNo": 10,
+                "RationCardType": "AAY",
+                "MarritalStatus": "Widow",
+                "TypeofHouse": "Shed",
+                "AreaofHouse": "above 1000 sq",
+                "AvailabilityofCleanWater": "Pond",
+                "OrganicWasteManagementMethod": "Bio-bin",
+                "EducationalQualification": "Plus Two",
+                "BloodGroup": "B⁺",
+                "PensionDetails": "Welfare Pension",
+                "MedicineDetails": "BP"
+              }
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "name": "Ward 11",
+          "houses": [
+            {
+              "id": 2003,
+              "houseNumber": "H-11-1",
+              "details": {
+                "WardNo": 11,
+                "TypeofHouse": "Tiled",
+                "AvailabilityofCleanWater": "Borewell",
+                "OrganicWasteManagementMethod": "NIL",
+                "EducationalQualification": "Degree",
+                "BloodGroup": "B⁻",
+                "PensionDetails": "Social Service",
+                "MedicineDetails": "Thyroid"
+              }
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "name": "Ward 12",
+          "houses": [
+            {
+              "id": 2004,
+              "houseNumber": "H-12-1",
+              "details": {
+                "WardNo": 12,
+                "EducationalQualification": "B A",
+                "BloodGroup": "AB⁺",
+                "MedicineDetails": "Kidney disease"
+              }
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "name": "Ward 13",
+          "houses": [
+            {
+              "id": 2005,
+              "houseNumber": "H-13-1",
+              "details": {
+                "WardNo": 13,
+                "EducationalQualification": "BSC",
+                "BloodGroup": "AB⁻"
+              }
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "name": "Ward 14",
+          "houses": [
+            {
+              "id": 2006,
+              "houseNumber": "H-14-1",
+              "details": {
+                "WardNo": 14,
+                "EducationalQualification": "B.Tech",
+                "BloodGroup": "O⁺"
+              }
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "name": "Ward 15",
+          "houses": [
+            {
+              "id": 2007,
+              "houseNumber": "H-15-1",
+              "details": {
+                "WardNo": 15,
+                "EducationalQualification": "BCA",
+                "BloodGroup": "O⁻"
+              }
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "name": "Ward 16",
+          "houses": [
+            {
+              "id": 2008,
+              "houseNumber": "H-16-1",
+              "details": {
+                "WardNo": 16,
+                "EducationalQualification": "B.COM"
+              }
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "name": "Ward 17",
+          "houses": [
+            {
+              "id": 2009,
+              "houseNumber": "H-17-1",
+              "details": {
+                "WardNo": 17,
+                "EducationalQualification": "BBA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "others": [
+    {
+      "EducationalQualification": "Hotel Management"
+    },
+    {
+      "EducationalQualification": "ITI"
+    },
+    {
+      "EducationalQualification": "Diploma"
+    },
+    {
+      "EducationalQualification": "M A"
+    },
+    {
+      "EducationalQualification": "MSC"
+    },
+    {
+      "EducationalQualification": "M.Tech"
+    },
+    {
+      "EducationalQualification": "MBA"
+    },
+    {
+      "EducationalQualification": "MCA"
+    },
+    {
+      "EducationalQualification": "MCOM"
+    },
+    {
+      "EducationalQualification": "Other"
+    }
+  ]
+}
+
