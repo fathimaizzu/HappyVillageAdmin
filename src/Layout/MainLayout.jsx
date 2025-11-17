@@ -44,7 +44,7 @@
 import React from "react";
 import { Outlet, Navigate, useNavigate } from "react-router-dom";
 import Nav from "../component/Nav";
-import SideBar from "../page/SideBar";
+
 import toast from "react-hot-toast";
 
 function MainLayout() {
